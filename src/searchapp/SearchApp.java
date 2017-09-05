@@ -9,16 +9,14 @@ package searchapp;
  *
  * @author Van Do
  */
+
+// This program focused on searching algorithm
 public class SearchApp 
 {
-
-    /**
-     * @param args the command line arguments
-     */
-    
     public static void main(String[] args) 
     {
-        // TODO code application logic here
+        Search search = new Search();
+        search.usingApp();
     }
     
 }
