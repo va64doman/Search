@@ -1,0 +1,5 @@
+1,BF,Beef Fillet,20.50,entree
+39,FF,Fish Fillet,21,entree
+21,Ti,Tiramasu,15,dessert
+2,CS,Cold Salad,10,appertizer
+25,Ba,Barramundi,14,entree
